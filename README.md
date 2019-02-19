@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/digital-delivery-academy/hello-world-example.svg?branch=master)](https://travis-ci.com/digital-delivery-academy/hello-world-example)
+
 # hello-world-example
 Hello world sample for academy coding
 
