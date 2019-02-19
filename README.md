@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/digital-delivery-academy/hello-world-example.svg?branch=master)](https://travis-ci.com/digital-delivery-academy/hello-world-example)
+[![Build Status](https://travis-ci.com/digital-delivery-academy/hello-world-example.svg?branch=master)](https://travis-ci.com/digital-delivery-academy/hello-world-example) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e4bf5c813cce488081d9afbea58627a4)](https://www.codacy.com/app/stevewalton28/hello-world-example?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=digital-delivery-academy/hello-world-example&amp;utm_campaign=Badge_Grade)
 
 # hello-world-example
 Hello world sample for academy coding
