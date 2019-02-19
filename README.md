@@ -18,7 +18,7 @@ To compile and run from command line:
 
 To run from IntelliJ:
 
-1. Open the class file HelloWorld
-2. Right click on the word "main" inside the HelloWorld class
-3. Click play
-4. Watch the console to see the hello world method
+ 1. Open the class file HelloWorld
+ 2. Right click on the word "main" inside the HelloWorld class
+ 3. Click play
+ 4. Watch the console to see the hello world method
